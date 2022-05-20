@@ -1,7 +1,7 @@
 ### Hello I'm Fanny Raquel 👋
 
 #### ⚡ Front-end developer at [Laboratoria](https://www.laboratoria.la/)
-![image](https://user-images.githubusercontent.com/77281295/169446518-a2d47675-ce54-46b2-8196-cefa77ab1a0d.png)
+![image](https://user-images.githubusercontent.com/77281295/169591851-d1cbf968-410f-454b-ae6c-44c5511955c0.png)
 
 #### 🔭 I worked at 321 ignition as a QA
 #### 🌱 I’m currently learning JavaScript and Testing
