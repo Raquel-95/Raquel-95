@@ -6,7 +6,7 @@
 #### 🔭 I worked at 321 ignition as a QA
 #### 🌱 I’m currently learning JavaScript and Testing
 
-[![CV: Fanny Raquel Pastor Izquierdo](https://img.shields.io/badge/-CV:FannyRaquelPastorIzquierdo-yellowgreen?style=flat-square&logo=white&link=)](https://www.canva.com/design/DAEhaGS1sOY/LAVvEwU4_8ccZnbjoLw-gQ/view?utm_content=DAEhaGS1sOY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+[![CV: Fanny Raquel Pastor Izquierdo](https://img.shields.io/badge/-CV:FannyRaquelPastorIzquierdo-yellowgreen?style=flat-square&logo=white&link=)](https://www.canva.com/design/DAFXgf8ci4g/pSmYWdQS34FY1v2fxNfKig/edit?utm_content=DAFXgf8ci4g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 [![Linkedin: Raquel Pastor](https://img.shields.io/badge/-RaquelPastor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fannypastor/)](https://www.linkedin.com/in/fannypastor/)
 
